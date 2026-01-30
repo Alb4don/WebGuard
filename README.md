@@ -1,5 +1,4 @@
 
-
 ## Features
 
 - **Multi-Layer Analysis**: Combines URL structure analysis, content pattern detection, domain reputation checks, behavioral monitoring, form security analysis, and certificate validation
@@ -8,6 +7,8 @@
 - **Visual Warnings**: Displays clear, user-friendly warnings for high-risk pages
 - **Low False Positives**: Conservative thresholds and weighted analysis reduce false alarms
 - **Privacy-Focused**: All analysis performed locally, no data sent to external servers
+
+![webguard](https://github.com/user-attachments/assets/b54b18b3-dab0-4c10-88d3-1bef37b8ea24)
 
 ## Installation
 
